@@ -62,11 +62,11 @@
    - Run the cells to view the analysis and results.
 
 ## Conclusion
-   - Loan status is influenced by a combination of factors, including annual income, loan purpose, and homeownership.
-   - Income plays a Significant Role: Borrowers with higher incomes are more likely to repay their loans on time.
-   - Loan Purpose Matters: The type of loan can also affect repayment outcomes. Loans for Small Business and Wedding are associated with higher risk.
-   - Loan Amount : Borrowers with larger loan amounts are more likely to be charged off.
-   - Homeownership is a Positive Indicator: Being a homeowner, especially with a mortgage, is generally associated with better loan performance.
+   - Loan status is influenced by a mix of factors, including annual income, loan purpose, and homeownership.
+   - Borrowers with higher incomes are more likely to repay their loans on time, highlighting the significant role of income.
+   - The purpose of the loan also matters, as loans for Small Business are associated with higher risk.
+   - Additionally, borrowers with larger loan amounts are more likely to be charged off.
+   - Homeownership, particularly with a mortgage, is generally a positive indicator and is associated with better loan performance.
 
 ## Contact
  - Created by [@kipittam] 
